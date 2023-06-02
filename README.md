@@ -7,10 +7,12 @@ The proposed system leverages the power of YOLO, an advanced object detection mo
 
 This combination of YOLO-based object detection and Flask web framework presents a powerful solution for Real-Time Crowd Monitoring and opens avenues for future research and advancements in the field.
 
-TECHNOLOGY USED
+TECHNOLOGY USED:
+
 HTML, CSS, JAVASCRIPT, PYTHON, FLASK, OPENCV, YOLO, THREADING & QUEUE MODULE, CORS
 
 TEAM MEMBERS:
+
 SANSKAR JAIN
 SWEEKRITI PANT
 SARANDEEP SABUT
